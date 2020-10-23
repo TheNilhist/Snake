@@ -1,4 +1,4 @@
 # Snake
-Snake game created with HTML and CSS
-NO score board available
-ENJOY!!
+<p>Snake game created with HTML and CSS</p>
+<p>NO score board available</p>
+<p>ENJOY!!</p>
